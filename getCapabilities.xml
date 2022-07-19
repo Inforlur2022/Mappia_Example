@@ -182,7 +182,7 @@
 				<Title>limite</Title>
 				<Abstract>GH:limite ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-2.7065442597410994" miny="43.29081031878233" maxx="-2.68903981388516" maxy="43.30097306188526"></LatLonBoundingBox>
